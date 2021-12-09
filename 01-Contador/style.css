@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: snow;
+  text-align: center;
+}
+
+.rojo{
+  color: tomato;
+
+}
+.verde{
+  color: rgb(68, 223, 68);
+}
+button{
+  margin: 0px 0.5rem;
+
+}
